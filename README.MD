@@ -15,4 +15,4 @@ UDF全称为User Defined Function，即用户自定义函数。
 ### 三、功能和代码展示
 
 - **json 数据处理，获取所有的 json key 字段**：[代码](https://github.com/aikuyun/hive_custom_udf/blob/master/src/main/java/cuteximi/GetAllKeys.java)
-- 待续...
+- **hive处理base64编码的数据，解码成明文显示**：[代码](https://github.com/aikuyun/hive_custom_udf/blob/master/src/main/java/cuteximi/DecodeBase64.java)
